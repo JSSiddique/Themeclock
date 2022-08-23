@@ -2,7 +2,7 @@
 An Analog Theme Clock Written in Javascript which gives the current time and date & also toogles between Light mode & Dark mode.
 
 # How to Deploy
-<a href='https://frabjous-piroshki-fa9963.netlify.app/' target="_blank">https://frabjous-piroshki-fa9963.netlify.app/</a>
+[https://frabjous-piroshki-fa9963.netlify.app/](https://frabjous-piroshki-fa9963.netlify.app/){:target="_blank" rel="noopener"}
 
 # Functionality
 It shows the current time and date.
