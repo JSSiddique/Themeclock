@@ -5,3 +5,5 @@ An Analog Theme Clock Written in Javascript which gives the current time and dat
 https://frabjous-piroshki-fa9963.netlify.app/
 
 # Functionality
+It shows the current time and date.
+You can also toggle between Dark mode and Light mode.
